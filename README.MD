@@ -38,8 +38,8 @@ Measure the thickness/height of the toy's base. Use this formula to ensure a sec
 
 ------------------------------
 ## ⚙️ Recommended Print Settings
-To handle high torque and reciprocating mass, it is not use standard profiles:
-
+To handle high torque and reciprocating mass, it is not advisable to use standard prining profiles:
+(Suggested possible print settings)
 * Material: PETG or Tough PLA (ABS/ASA preferred for high-stress).
 * Walls: 4–6 Perimeters.
 * Infill: 40%+ (Gyroid or Cubic).
@@ -61,7 +61,6 @@ To handle high torque and reciprocating mass, it is not use standard profiles:
 * T.H.I.C.C. V3 Baseplates: (Tough Heavy-duty Interface for Complex Contours) with offset holes and rear reinforcement.
 * Lathe-Style Chuck: Reverse quick-change plate for Fleshlight/Lovense bodies.
 * Suction Valve Sandwich Plate: For open-backed strokers with integrated air-bleed control.
+* V2 Retaining Rings with Inset Nuts and very curved mounting edge for uhhhhh human intiface clearance 
 
-------------------------------
-Do you want to add a Disclaimer/Safety section regarding bolt tension or material choice before you post this to ossm-print-testing?
 
