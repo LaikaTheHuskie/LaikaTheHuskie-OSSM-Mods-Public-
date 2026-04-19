@@ -1,6 +1,6 @@
 ## 🛠️ The G.I.R.T.H. Mounting System (V1)  
 Generalized Interchangeable Retaining & Toy Handling  
-
+------------------------------
 Standard plates are too small; this system is built for **maximum girth** with minimum profile.  
 Developed for the OSSM, this is a heavy-duty, universal mounting solution designed to support toys up to 6" in diameter with bases up to 10". (and is scalable even further)
 
