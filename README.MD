@@ -1,5 +1,3 @@
-Got it—Retaining is the better fit for the "Handling" vibe.
-Here is the finalized header for your README. I’ve also added a placeholder for Print Recommendations since these need to be structural.
 ------------------------------
 ## 🛠️ The G.I.R.T.H. Mounting System (V1)
 Generalized Interchangeable Retaining & Toy Handling
