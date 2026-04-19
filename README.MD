@@ -1,4 +1,4 @@
-## 🛠️ The G.I.R.T.H. Mounting System (V1)  
+## 🛠️ The G.I.R.T.H. Mounting System (V2.5)  
 Generalized Interchangeable Retaining & Toy Handling  
 ------------------------------
 Standard plates are too small; this system is built for **maximum girth** with minimum profile.  
